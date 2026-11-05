@@ -1,0 +1,4 @@
+Keyboard Mash=k01.wav,k02.wav,k03.wav,k04.wav,k05.wav,k06.wav,k07.wav,k08.wav
+Thumb Taps=k01.wav,k02.wav,k03.wav,k04.wav,k05.wav,k06.wav,k07.wav,k08.wav
+Soft Crisp Typing=k01.wav,k02.wav,k03.wav,k04.wav,k05.wav,k06.wav,k07.wav,k08.wav
+Retro Terminal=k01.wav,k02.wav,k03.wav,k04.wav,k05.wav,k06.wav,k07.wav,k08.wav
