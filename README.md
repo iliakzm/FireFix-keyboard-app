@@ -1,5 +1,7 @@
 # 🔥 FireFix
 
+[![Download](https://img.shields.io/github/v/release/iliakzm/FireFix-keyboard-app?label=Download&style=for-the-badge&color=orange)](https://github.com/iliakzm/FireFix-keyboard-app/releases/latest)
+
 a windows keyboard program for edit wrong text language and typing sounds.
 You can set a different keyboard sound for each language, so you'll know which language you're typing in just by listening.
 This way, your keyboard becomes mechanical too!😎
