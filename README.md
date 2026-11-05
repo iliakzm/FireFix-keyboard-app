@@ -6,7 +6,7 @@ a windows keyboard program for edit wrong text language and typing sounds.
 You can set a different keyboard sound for each language, so you'll know which language you're typing in just by listening.
 This way, your keyboard becomes mechanical too!😎
 
-<img width="400" alt="FireFix" src="https://github.com/user-attachments/assets/df64ac48-8af6-4795-9e5a-21d24ae7ba63" />
+<img width="340" alt="FireFix" src="https://github.com/user-attachments/assets/df64ac48-8af6-4795-9e5a-21d24ae7ba63" />
 
 
 - **Fix text** – typed a sentence with the wrong layout active? Select it, press the hotkey (default `Ctrl+Shift+F9`), and it is converted (e.g. `سلام` ⇄ `sfhl`). Supports English, Persian, German and Russian layouts.
